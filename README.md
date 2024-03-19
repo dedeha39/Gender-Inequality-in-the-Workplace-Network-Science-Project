@@ -36,10 +36,10 @@ The project assesses and compares community detection methodologies, visualizing
 
 Contributions to this project include:
 
-- **Ömer Cem Tabar (2081169):** 
-- **Ismail Deha Köse (2072544):** 
-- **Anil Özfirat (2087154):**
-- **Zafer Çınar (2041428):**
+- **Ömer Cem Tabar (2081169)** 
+- **Ismail Deha Köse (2072544)** 
+- **Anil Özfirat (2087154)**
+- **Zafer Çınar (2041428)**
 
 ---
 
